@@ -8,6 +8,6 @@
         - [OOP](docs/python/01-whatIsOOP.md)
     - [Git and Github](docs/git/README.md)
         - [What is the difference between git and github?](docs/git/001-difference.md)
-    - [Linux](docs/Linux/README.md)
     - [MySQL](docs/database/mysql/002-CreateTable.md)
+    - [Linux](docs/Linux/README.md)
 
