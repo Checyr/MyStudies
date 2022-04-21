@@ -9,8 +9,8 @@
     - [Git and Github](docs/git/README.md)
         - [What is the difference between git and github?](docs/git/001-difference.md)
     - [MySQL](docs/database/mysql/002-CreateTable.md)
-        - [What is MySQL?](docs\database\mysql\001-whatis.md)
-        - [Basic Commands](docs\database\mysql\002-BasicCommands.md)
-        - [Creating a Database](docs\database\mysql\003-CreateDatabase.md)
+        - [What is MySQL?](docs/database/mysql/001-whatis.md)
+        - [Basic Commands](docs/database/mysql/002-BasicCommands.md)
+        - [Creating a Database](docs/database/mysql/003-CreateDatabase.md)
     - [Linux](docs/Linux/README.md)
 
