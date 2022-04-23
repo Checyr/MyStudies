@@ -41,4 +41,4 @@ USE world;
 if everything goes fine you'll recive "Database Changed" and now you are on the database that you choice you can use the first command "SHOW TABLES;" to show the tables
 
 
-[<-- &nbsp; Go Home](https://github.com/Checyr/MyStudies) [ &nbsp; Next Page -->](003-CreateDatabase.md)
+[ &nbsp; Next Page -->](003-CreateDatabase.md)
