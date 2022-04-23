@@ -4,7 +4,7 @@
 
 # Summary 
 - Fudamments of Programming
-    - [Python](docs/python/README.md) or other language that you want
+    - [Python](docs/python/README.md)
         - [OOP](docs/python/01-whatIsOOP.md)
     - [Git and Github](docs/git/README.md)
         - [What is the difference between git and github?](docs/git/001-difference.md)
