@@ -6,12 +6,13 @@
 - Fudamments of Programming
     - [Python](docs/python/README.md)
         - [OOP](docs/python/01-whatIsOOP.md)
-    - [Git and Github](docs/git/README.md)[](https://img.shields.io/badge/-Soon-blueviolet)
-        - [What is the difference between git and github?](docs/git/001-difference.md)
-    - [MySQL](docs/database/mysql/002-CreateTable.md)
+    - [Git and Github](docs/git/README.md) ![image](https://img.shields.io/badge/-Soon-blueviolet)
+
+        - [What is the difference between git and github?](docs/git/001-difference.md) ![image](https://img.shields.io/badge/-In%20process-blue)
+    - [MySQL](docs/database/mysql/002-CreateTable.md) ![image](https://img.shields.io/badge/-In%20process-blue)
         - [What is MySQL?](docs/database/mysql/001-whatis.md)
         - [Basic Commands](docs/database/mysql/002-BasicCommands.md)
-        - [Creating a Database](docs/database/mysql/003-CreateDatabase.md)[](https://img.shields.io/badge/-In%20process-blueviolet)
+        - [Creating a Database](docs/database/mysql/003-CreateDatabase.md)![image](https://img.shields.io/badge/-In%20process-blue)
 
-    - [Linux](docs/Linux/README.md)[](https://img.shields.io/badge/-Soon-blueviolet)
+    - [Linux](docs/Linux/README.md) ![image](https://img.shields.io/badge/-Soon-blueviolet)
 
