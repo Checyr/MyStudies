@@ -1,0 +1,29 @@
+*{
+    top: auto;
+
+}
+
+table{
+    !important:width:40%;
+    top: 0;
+    right: 50%;
+}
+th,td{
+    padding:10px;
+    text-align:center;
+    border:1px solid #ccc;
+}
+p{
+    padding:20px;
+    border:1px solid #ccc;
+}
+
+form{
+    display: flex;
+    top: 0;
+    align-items: flex-start;
+}
+
+button{
+    display: flex;
+}
