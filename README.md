@@ -4,7 +4,7 @@
 
 # Summary 
 - Fudamments of Programming
-    
+    - [PHP](docs/php/bindParam.md)
     - [CRUD](docs/crud/README.md)
 
     - [Python](docs/python/README.md)![image](https://img.shields.io/badge/-In%20process-blue)
