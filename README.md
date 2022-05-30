@@ -4,18 +4,17 @@
 
 # Summary 
 - Fudamments of Programming
-    - [PHP](docs/php/bindParam.md)
+    - [PHP]()
+        - [BindParam](docs/php/bindParam.md)
+        - [CLI](docs\php\CLI\README.md)
+    - [Python](docs\python)
+        -[What Is OOP](docs\python\01-whatIsOOP.md)
+        -[OOP](docs\python\02-oop.md)
     - [CRUD](docs/crud/README.md)
-
-    - [Python](docs/python/README.md)![image](https://img.shields.io/badge/-In%20process-blue)
-        - [OOP](docs/python/01-whatIsOOP.md)
-    - [Git and Github](docs/git/README.md) ![image](https://img.shields.io/badge/-Soon-blueviolet)
-
-        - [What is the difference between git and github?](docs/git/001-difference.md) ![image](https://img.shields.io/badge/-In%20process-blue)
-    - [MySQL](docs/database/mysql/002-CreateTable.md) ![image](https://img.shields.io/badge/-In%20process-blue)
+    - [Git and Github](docs/git/README.md)
+        - [What is the difference between git and github?](docs/git/001-difference.md) 
+    - [MySQL](docs/database/mysql/002-CreateTable.md) 
         - [What is MySQL?](docs/database/mysql/001-whatis.md)
         - [Basic Commands](docs/database/mysql/002-BasicCommands.md)
-        - [Creating a Database](docs/database/mysql/003-CreateDatabase.md)![image](https://img.shields.io/badge/-In%20process-blue)
-
-    - [Linux](docs/Linux/README.md) ![image](https://img.shields.io/badge/-Soon-blueviolet)
+        - [Creating a Database](docs/database/mysql/003-CreateDatabase.md)
 
