@@ -6,10 +6,10 @@
 - Fudamments of Programming
     - [PHP]()
         - [BindParam](docs/php/bindParam.md)
-        - [CLI](docs\php\CLI\README.md)
+        - [CLI](docs/php/CLI/README.md)
     - [Python](docs\python)
-         -[What Is OOP](docs\python\01-whatIsOOP.md)<br>
-         -[OOP](docs\python\02-oop.md)<br>
+        - [What Is OOP](docs\python\01-whatIsOOP.md)
+        - [OOP](docs\python\02-oop.md)
     - [CRUD](docs/crud/README.md)
     - [Git and Github](docs/git/README.md)
         - [What is the difference between git and github?](docs/git/001-difference.md) 
