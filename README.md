@@ -7,6 +7,7 @@
     - [PHP]()
         - [BindParam](docs/php/bindParam.md)
         - [CLI](docs/php/CLI/README.md)
+        - [Asynchronous](docs/php/Asynchronous/README.md)
     - [Python](docs\python)
         - [What Is OOP](docs\python\01-whatIsOOP.md)
         - [OOP](docs\python\02-oop.md)
